@@ -1,2 +1,2 @@
 # Latihan
-![img]screenshoot/ss1.png
+![Gambar 1](screenshoot/ss1.png)
